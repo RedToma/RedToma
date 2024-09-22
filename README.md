@@ -2,8 +2,6 @@
     <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=130&section=header&text=MinKyu%20Ji&fontAlign=80&fontAlignY=35&desc=BackEnd_Developer&descAlign=80&fontSize=55" />    
 </div>
 
-<br/>
-
 <div align="center">
     <br/>
     <h3>🛠️ My Skill<h3/>
